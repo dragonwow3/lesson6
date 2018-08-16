@@ -1,0 +1,41 @@
+body{
+	width: 100%;
+	min-height: 250px;
+	border: 4px double #000;
+	background: #fff url(../img/3.jpg) top center no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+	margin: 0 auto;
+}
+
+header{
+	width: 60%;
+	border: 4px double #000;
+	background: #fff url(../img/3.jpg) top center no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+	margin: 0 auto;
+}
+
+main{
+	width: 80%;
+	min-height: 350px;
+	border: 4px double #000;
+	margin: 0 auto;
+	background-color: #fff;
+}
+
+p{
+width: 60%;
+padding: 10px;
+border: 1px solid #000;
+border-top: 15px solid #FF6000;
+margin: 20px auto;
+}
+
+.clear{
+	clear: both;
+}
+footer{
+
+}
